@@ -1,6 +1,3 @@
-<!-- ### Hi there 👋
-
-
 <h1 align="center">Hi 👋, I'm Burak Balci</h1>
 <h3 align="center">Front-End Developer</h3>
 
@@ -22,6 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burak-balci&show_icons=true&locale=en" alt="burak-balci" /></p>
 
-
+<!-- ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burak-balci&layout=compact)](https://github.com/burak-balci/github-readme-stats)
  -->
