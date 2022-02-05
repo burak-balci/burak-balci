@@ -19,5 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=burak-balci&show_icons=true&locale=en&layout=compact" alt="burak-balci" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burak-balci&layout=compact)](https://github.com/burak-balci/github-readme-stats)
 
