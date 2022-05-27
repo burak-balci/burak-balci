@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript & React**
 
-- 💬 Ask me about **HTML,CSS & Javascript**
+- 💬 Ask me about **HTML,CSS & React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
