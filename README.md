@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?duration=3000&lines=Hi+there+%3A);I%27m+Burak.;I%27m+Frontend+Developer.">
 </p>
-- 🌱 I’m currently learning **React & TypeScript**
+- 🌱 I’m currently learning *React Native*
 
 - 💬 Ask me about **HTML,CSS,Tailwind & React**
 
