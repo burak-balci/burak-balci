@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
 <img src="https://readme-typing-svg.herokuapp.com/?duration=3000&lines=Hi+there+%3A);I%27m+Burak.;I%27m+Frontend+Developer.">
 </p>
 
