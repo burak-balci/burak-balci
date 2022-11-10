@@ -23,12 +23,13 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Node" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;" />
 
+<br />
+
 ---
 
 ### 📕 Blog Posts
 - [Creating Protected Route with React Router](https://medium.com/@burakbalci/creating-protected-route-with-react-router-3ba14cfa4f2b)
 
-<br />
 
 ---
 
