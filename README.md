@@ -1,7 +1,7 @@
 # Hi there, I'm Burak 👋
 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Angular** & **Java**
 - 💬 Ask me about **HTML,CSS,Tailwind,React & Next.js**
 
 
